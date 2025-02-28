@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./js",  // Output compiled files into "compiled" folder
+    "rootDir": ".",      // Source files are inside "src"
+    "strict": true,          // Enable strict type checking
+    "module": "CommonJS",    // Default for Node.js
+    "target": "ES6"          // Use ES6 features
+  }
+}
